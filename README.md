@@ -39,5 +39,3 @@ Current Status: Hard-coding the future.
 Focus: Building the "High Ground" in cybersecurity.
 
 "Visibility is the ultimate deterrent. We don't just protect; we provide the Vantage."
-
-"Visibility is the ultimate deterrent. We don't just protect; we provide the Vantage."
