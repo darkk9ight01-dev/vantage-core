@@ -1,0 +1,10 @@
+company_name = input("Enter the company name: ")
+company_name = company_name.upper()
+employee_count = input("Enter the number of employees: ")
+count = int(employee_count)
+total_risk = count * 160
+print("\n" + "="*30)
+print(f"B2B SECURITY AUDIT: {company_name}")
+print(f"Target: {company_name} identified.")
+print(f"Total Finnancial Risk: ${total_risk:,}")
+print("="*30)
