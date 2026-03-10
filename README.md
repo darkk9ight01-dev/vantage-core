@@ -2,7 +2,7 @@ VANTAGE | Strategic Intelligence & Security Infrastructure
 
 Omnipresent Intelligence. Indestructible Logic.
 
-I am a security-focused systems developer and JEE 2028 Aspirant. I architect VANTAGE—a suite of high-performance infrastructure tools designed for strategic dominance and digital risk mitigation.
+I am a security-focused systems developer and JEE 2028 Aspirant. I am architect of VANTAGE—a suite of high-performance infrastructure tools designed for strategic dominance and digital risk mitigation.
 
 About the Lead Architect
 
